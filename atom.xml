@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>HelloFuture</title>
+  <icon>http://yoursite.com/icon.png</icon>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-09-12T13:24:29.828Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>萌面幼稚鬼</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>一位大佬的ACM历程”</title>
+    <link href="http://yoursite.com/2019/09/12/%E4%B8%80%E4%BD%8D%E5%A4%A7%E4%BD%AC%E7%9A%84ACM%E5%8E%86%E7%A8%8B%E2%80%9D/"/>
+    <id>http://yoursite.com/2019/09/12/一位大佬的ACM历程”/</id>
+    <published>2019-09-12T13:24:29.000Z</published>
+    <updated>2019-09-12T13:24:29.828Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2019/09/12/hello-world/"/>
+    <id>http://yoursite.com/2019/09/12/hello-world/</id>
+    <published>2019-09-12T12:17:27.924Z</published>
+    <updated>2019-09-12T12:17:27.924Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
