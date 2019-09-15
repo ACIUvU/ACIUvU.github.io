@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-09-14T08:02:57.194Z</updated>
+  <updated>2019-09-15T04:03:02.220Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,48 +17,81 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>一位大佬的ACM历程</title>
-    <link href="http://yoursite.com/2019/09/12/%E4%B8%80%E4%BD%8D%E5%A4%A7%E4%BD%AC%E7%9A%84ACM%E5%8E%86%E7%A8%8B%E2%80%9D/"/>
-    <id>http://yoursite.com/2019/09/12/一位大佬的ACM历程”/</id>
-    <published>2019-09-12T13:24:29.000Z</published>
-    <updated>2019-09-14T08:02:57.194Z</updated>
+    <title>tombkeeper</title>
+    <link href="http://yoursite.com/2019/09/15/tombkeeper/"/>
+    <id>http://yoursite.com/2019/09/15/tombkeeper/</id>
+    <published>2019-09-15T02:12:21.000Z</published>
+    <updated>2019-09-15T04:03:02.220Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;p&gt;从我接触程序竞赛到现在应该有十多年了，单说ACM竞赛，从第一次非正式参赛到现在也差不多有7年多的样子。有太多的故事，想说的话，却一直没能有机会写下来。一方面是自己忙，一方面也是自己懒。所以很感谢能有人“逼”我来写点什么。想到会有很多人来读我写的文字，自己也觉得很开心。其实每
-        
-      
+      &lt;h2 id=&quot;Unknown-date&quot;&gt;&lt;a href=&quot;#Unknown-date&quot; class=&quot;headerlink&quot; title=&quot;Unknown date&quot;&gt;&lt;/a&gt;Unknown date&lt;/h2&gt;&lt;p&gt;在线教育带来的最大的公平，应该是最大限度地令学生的成绩独立于他们的经济水平，转而取决于他们个人的意志与禀赋。这不得不说是一个巨大的进步。&lt;/p&gt;&lt;p&gt;一个人走得快，一群人走得远&lt;/p&gt;&lt;p&gt;常常看到一条微博想去评论抖个机灵，结果发现不但相同的机灵早就被人抖了，甚至还有十来个更好笑的机灵。人活在信息时代容易自卑&lt;/p&gt;
     
     </summary>
     
     
+      <category term="Serial" scheme="http://yoursite.com/categories/Serial/"/>
+    
+    
+      <category term="Repost" scheme="http://yoursite.com/tags/Repost/"/>
+    
+      <category term="Serial" scheme="http://yoursite.com/tags/Serial/"/>
+    
+      <category term="Viewpoint" scheme="http://yoursite.com/tags/Viewpoint/"/>
+    
+      <category term="Stimulation" scheme="http://yoursite.com/tags/Stimulation/"/>
     
   </entry>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://yoursite.com/2019/09/12/hello-world/"/>
-    <id>http://yoursite.com/2019/09/12/hello-world/</id>
-    <published>2019-09-12T12:17:27.924Z</published>
-    <updated>2019-09-12T12:17:27.924Z</updated>
+    <title>英国人对贸易战的看法很有意思</title>
+    <link href="http://yoursite.com/2019/09/15/%E8%8B%B1%E5%9B%BD%E4%BA%BA%E5%AF%B9%E8%B4%B8%E6%98%93%E6%88%98%E7%9A%84%E7%9C%8B%E6%B3%95/"/>
+    <id>http://yoursite.com/2019/09/15/英国人对贸易战的看法/</id>
+    <published>2019-09-15T00:47:06.000Z</published>
+    <updated>2019-09-15T01:56:18.200Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
-        
-      
+      &lt;p&gt;本帖最后由 严肃点（原作者） 于2019-09-0908:17编辑&lt;/p&gt;&lt;p&gt;​    今天拿着presentation找导师修改，一边改一边跟教授闲聊，就说到国际政治了&lt;/p&gt;&lt;p&gt;  不得不说英国佬玩政治上，想法和眼光还是有的（所以您大英帝国玩脱欧怎么玩成这样的）&lt;br&gt;    不管媒体怎么宣传，高级知识分子对局势的见解还是可以的，和老头子聊了聊，我对中美国际局势感觉有了个全新的视角。&lt;/p&gt;
     
     </summary>
     
     
+      <category term="Viewpoint" scheme="http://yoursite.com/categories/Viewpoint/"/>
+    
+    
+      <category term="Repost" scheme="http://yoursite.com/tags/Repost/"/>
+    
+      <category term="Viewpoint" scheme="http://yoursite.com/tags/Viewpoint/"/>
+    
+      <category term="Economics" scheme="http://yoursite.com/tags/Economics/"/>
+    
+      <category term="Trade war" scheme="http://yoursite.com/tags/Trade-war/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>一位大佬的ACM历程</title>
+    <link href="http://yoursite.com/2019/09/12/%E4%B8%80%E4%BD%8D%E5%A4%A7%E4%BD%AC%E7%9A%84ACM%E5%8E%86%E7%A8%8B%E2%80%9D/"/>
+    <id>http://yoursite.com/2019/09/12/一位大佬的ACM历程”/</id>
+    <published>2019-09-12T13:24:29.000Z</published>
+    <updated>2019-09-15T02:18:14.261Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;从我接触程序竞赛到现在应该有十多年了，单说ACM竞赛，从第一次非正式参赛到现在也差不多有7年多的样子。有太多的故事，想说的话，却一直没能有机会写下来。一方面是自己忙，一方面也是自己懒。所以很感谢能有人“逼”我来写点什么。想到会有很多人来读我写的文字，自己也觉得很开心。其实每个人的生活都是一部电影，只是没有那么多幸运的人有机会去诉说。这里，且说三个小故事。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Tale" scheme="http://yoursite.com/categories/Tale/"/>
+    
+    
+      <category term="Repost" scheme="http://yoursite.com/tags/Repost/"/>
+    
+      <category term="Stimulation" scheme="http://yoursite.com/tags/Stimulation/"/>
+    
+      <category term="ACM" scheme="http://yoursite.com/tags/ACM/"/>
     
   </entry>
   
