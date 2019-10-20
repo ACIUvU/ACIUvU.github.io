@@ -2,13 +2,17 @@
 <search>
   <entry>
     <title><![CDATA[Python之禅]]></title>
-    <url>%2F2019%2F10%2F20%2FPythond%E4%B9%8B%E7%A6%85%2F</url>
-    <content type="text"><![CDATA[在Python交互式环境中输入 1import this 可以看到Tim Peter撰写的“Python之禅”，里面讲述的道理不仅仅适用于Python，也适用于其他编程语言。 Beautiful is better than ugly.Explicit is better than implicit.Simple is better than complex.Complex is better than complicated.Flat is better than nested.Sparse is better than dense.Readability counts.Special cases aren’t special enough to break the rules.Although practicality beats purity.Errors should never pass silently.Unless explicitly silenced.In the face of ambiguity, refuse the temptation to guess.There should be one– and preferably only one –obvious way to do it.Although that way may not be obvious at first unless you’re Dutch.Now is better than never.Although never is often better than right now.If the implementation is hard to explain, it’s a bad idea.If the implementation is easy to explain, it may be a good idea.Namespaces are one honking great idea – let’s do more of those!]]></content>
-  </entry>
-  <entry>
-    <title><![CDATA[Python之禅]]></title>
     <url>%2F2019%2F10%2F20%2FPython%E4%B9%8B%E7%A6%85%2F</url>
     <content type="text"><![CDATA[在Python交互式环境中输入 1import this 可以看到Tim Peter撰写的“Python之禅”，里面讲述的道理不仅仅适用于Python，也适用于其他编程语言。 Beautiful is better than ugly.Explicit is better than implicit.Simple is better than complex.Complex is better than complicated.Flat is better than nested.Sparse is better than dense.Readability counts.Special cases aren’t special enough to break the rules.Although practicality beats purity.Errors should never pass silently.Unless explicitly silenced.In the face of ambiguity, refuse the temptation to guess.There should be one– and preferably only one –obvious way to do it.Although that way may not be obvious at first unless you’re Dutch.Now is better than never.Although never is often better than right now.If the implementation is hard to explain, it’s a bad idea.If the implementation is easy to explain, it may be a good idea.Namespaces are one honking great idea – let’s do more of those!]]></content>
+      <categories>
+        <category>Python</category>
+        <category>Viewpoint</category>
+      </categories>
+      <tags>
+        <tag>Inspire</tag>
+        <tag>Viewpoint</tag>
+        <tag>Python</tag>
+      </tags>
   </entry>
   <entry>
     <title><![CDATA[论文经验（一）]]></title>
@@ -44,9 +48,9 @@
         <category>Serial</category>
       </categories>
       <tags>
+        <tag>Viewpoint</tag>
         <tag>Repost</tag>
         <tag>Serial</tag>
-        <tag>Viewpoint</tag>
         <tag>Stimulation</tag>
       </tags>
   </entry>
@@ -58,8 +62,8 @@
         <category>Viewpoint</category>
       </categories>
       <tags>
-        <tag>Repost</tag>
         <tag>Viewpoint</tag>
+        <tag>Repost</tag>
         <tag>Economics</tag>
         <tag>Trade war</tag>
       </tags>
