@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-10-20T06:31:08.300Z</updated>
+  <updated>2019-12-09T11:34:26.332Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>清华大学-2019人工智能发展报告</title>
+    <link href="http://yoursite.com/2019/12/09/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6-2019%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8F%91%E5%B1%95%E6%8A%A5%E5%91%8A/"/>
+    <id>http://yoursite.com/2019/12/09/清华大学-2019人工智能发展报告/</id>
+    <published>2019-12-09T11:28:52.000Z</published>
+    <updated>2019-12-09T11:34:26.332Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;链接：&lt;a href=&quot;https://pan.baidu.com/s/1AlfqbLItB2WiRQzEvSjY0w&quot; target=&quot;_blank&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Data" scheme="http://yoursite.com/categories/Data/"/>
+    
+    
+      <category term="AI" scheme="http://yoursite.com/tags/AI/"/>
+    
+      <category term="Share" scheme="http://yoursite.com/tags/Share/"/>
+    
+  </entry>
   
   <entry>
     <title>Python之禅</title>
@@ -55,7 +84,7 @@
     <link href="http://yoursite.com/2019/09/26/%E8%AE%BA%E6%96%87%E7%BB%8F%E9%AA%8C%EF%BC%88%E4%B8%80%EF%BC%89/"/>
     <id>http://yoursite.com/2019/09/26/论文经验（一）/</id>
     <published>2019-09-26T06:22:38.000Z</published>
-    <updated>2019-09-26T06:52:29.323Z</updated>
+    <updated>2019-12-09T11:34:06.445Z</updated>
     
     <summary type="html">
     
@@ -94,9 +123,9 @@
     
       <category term="Repost" scheme="http://yoursite.com/tags/Repost/"/>
     
-      <category term="Serial" scheme="http://yoursite.com/tags/Serial/"/>
-    
       <category term="Literature" scheme="http://yoursite.com/tags/Literature/"/>
+    
+      <category term="Serial" scheme="http://yoursite.com/tags/Serial/"/>
     
   </entry>
   
