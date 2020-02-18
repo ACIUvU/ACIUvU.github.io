@@ -58,20 +58,20 @@
   };
 </script>
 
-  <meta name="description" content="一.多项式求根函数roots 求如下方程的根$$x^2-3x+1=0$$则键入 12p=[1,-3,1];x=roots(p)">
+  <meta name="description" content="一.入门 求如下方程的根$$x^2-3x+1=0$$方法一(多项式求根函数roots)：键入12p=[1,-3,1];x=roots(p)方法二（绘图法）：12345678%  产生x向量 ; x从5变化到-5，步长为0.1x=-5:0.1:5;%  求函数值向量y1y1=x.*x-3*x+1;%  产生一个和x向量同大小的零向量 y2y2=zeros(size(x));%  绘制函数曲线plot">
 <meta property="og:type" content="article">
 <meta property="og:title" content="matlab学习之路（一）">
 <meta property="og:url" content="http://yoursite.com/2020/02/18/matlab学习之路（一）/index.html">
 <meta property="og:site_name" content="HelloFuture">
-<meta property="og:description" content="一.多项式求根函数roots 求如下方程的根$$x^2-3x+1=0$$则键入 12p=[1,-3,1];x=roots(p)">
+<meta property="og:description" content="一.入门 求如下方程的根$$x^2-3x+1=0$$方法一(多项式求根函数roots)：键入12p=[1,-3,1];x=roots(p)方法二（绘图法）：12345678%  产生x向量 ; x从5变化到-5，步长为0.1x=-5:0.1:5;%  求函数值向量y1y1=x.*x-3*x+1;%  产生一个和x向量同大小的零向量 y2y2=zeros(size(x));%  绘制函数曲线plot">
 <meta property="og:locale" content="en">
-<meta property="og:image" content="https://s2.ax1x.com/2020/02/18/3kchqO.png">
 <meta property="og:image" content="https://github.com/ACIUvU/images_blog/blob/master/matlab_Learning/2_18/1.png?raw=true">
-<meta property="og:updated_time" content="2020-02-18T11:31:47.491Z">
+<meta property="og:image" content="https://github.com/ACIUvU/images_blog/blob/master/matlab_Learning/2_18/2.png?raw=true">
+<meta property="og:updated_time" content="2020-02-18T12:05:36.651Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="matlab学习之路（一）">
-<meta name="twitter:description" content="一.多项式求根函数roots 求如下方程的根$$x^2-3x+1=0$$则键入 12p=[1,-3,1];x=roots(p)">
-<meta name="twitter:image" content="https://s2.ax1x.com/2020/02/18/3kchqO.png">
+<meta name="twitter:description" content="一.入门 求如下方程的根$$x^2-3x+1=0$$方法一(多项式求根函数roots)：键入12p=[1,-3,1];x=roots(p)方法二（绘图法）：12345678%  产生x向量 ; x从5变化到-5，步长为0.1x=-5:0.1:5;%  求函数值向量y1y1=x.*x-3*x+1;%  产生一个和x向量同大小的零向量 y2y2=zeros(size(x));%  绘制函数曲线plot">
+<meta name="twitter:image" content="https://github.com/ACIUvU/images_blog/blob/master/matlab_Learning/2_18/1.png?raw=true">
   <link rel="canonical" href="http://yoursite.com/2020/02/18/matlab学习之路（一）/">
 
 
@@ -276,7 +276,7 @@
                 
               
 
-              <time title="Created: 2020-02-18 17:47:30 / Modified: 19:31:47" itemprop="dateCreated datePublished" datetime="2020-02-18T17:47:30+08:00">2020-02-18</time>
+              <time title="Created: 2020-02-18 17:47:30 / Modified: 20:05:36" itemprop="dateCreated datePublished" datetime="2020-02-18T17:47:30+08:00">2020-02-18</time>
             </span>
           
             
@@ -315,7 +315,7 @@
               
                 <span class="post-meta-item-text">Symbols count in article: </span>
               
-              <span>62</span>
+              <span>278</span>
             </span>
           
             <span class="post-meta-item" title="Reading time">
@@ -338,12 +338,16 @@
     <div class="post-body" itemprop="articleBody">
 
       
-        <h3 id="一-多项式求根函数roots"><a href="#一-多项式求根函数roots" class="headerlink" title="一.多项式求根函数roots"></a>一.多项式求根函数roots</h3><p> 求如下方程的根<br>$$<br>x^2-3x+1=0<br>$$<br>则键入</p>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">p=[1,-3,1];</span><br><span class="line">x=roots(p)</span><br></pre></td></tr></table></figure>
+        <h3 id="一-入门"><a href="#一-入门" class="headerlink" title="一.入门"></a>一.入门</h3><p> 求如下方程的根<br>$$<br>x^2-3x+1=0<br>$$</p><h4 id="方法一-多项式求根函数roots-："><a href="#方法一-多项式求根函数roots-：" class="headerlink" title="方法一(多项式求根函数roots)："></a>方法一(多项式求根函数roots)：</h4><p>键入</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">p=[1,-3,1];</span><br><span class="line">x=roots(p)</span><br></pre></td></tr></table></figure><p><img src="https://github.com/ACIUvU/images_blog/blob/master/matlab_Learning/2_18/1.png?raw=true" alt></p><h4 id="方法二（绘图法）："><a href="#方法二（绘图法）：" class="headerlink" title="方法二（绘图法）："></a>方法二（绘图法）：</h4><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">%  产生x向量 ; x从5变化到-5，步长为0.1</span><br><span class="line">x=-5:0.1:5;</span><br><span class="line">%  求函数值向量y1</span><br><span class="line">y1=x.*x-3*x+1;</span><br><span class="line">%  产生一个和x向量同大小的零向量 y2</span><br><span class="line">y2=zeros(size(x));</span><br><span class="line">%  绘制函数曲线</span><br><span class="line">plot(x,y1,x,y2);</span><br></pre></td></tr></table></figure><a id="more"></a>
 
-<p><img src="https://s2.ax1x.com/2020/02/18/3kchqO.png" alt></p>
-<p><img src="https://github.com/ACIUvU/images_blog/blob/master/matlab_Learning/2_18/1.png?raw=true" alt></p>
 
+
+
+
+
+<p><img src="https://github.com/ACIUvU/images_blog/blob/master/matlab_Learning/2_18/2.png?raw=true" alt></p>
+<h4 id="其他方法"><a href="#其他方法" class="headerlink" title="其他方法"></a>其他方法</h4><h6 id="求单变量非线性方程的函数-fzero"><a href="#求单变量非线性方程的函数-fzero" class="headerlink" title="求单变量非线性方程的函数 fzero"></a>求单变量非线性方程的函数 fzero</h6><p>该函数可以求方程在某个初始点附近的实根</p>
+<h6 id="方程求根函数-fsolve"><a href="#方程求根函数-fsolve" class="headerlink" title="方程求根函数 fsolve"></a>方程求根函数 fsolve</h6><h6 id="符号求根函数-solve"><a href="#符号求根函数-solve" class="headerlink" title="符号求根函数 solve"></a>符号求根函数 solve</h6>
     </div>
 
     
@@ -448,7 +452,7 @@
 
       <!--noindex-->
       <div class="post-toc-wrap sidebar-panel">
-          <div class="post-toc motion-element"><ol class="nav"><li class="nav-item nav-level-3"><a class="nav-link" href="#一-多项式求根函数roots"><span class="nav-number">1.</span> <span class="nav-text">一.多项式求根函数roots</span></a></li></ol></div>
+          <div class="post-toc motion-element"><ol class="nav"><li class="nav-item nav-level-3"><a class="nav-link" href="#一-入门"><span class="nav-number">1.</span> <span class="nav-text">一.入门</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#方法一-多项式求根函数roots-："><span class="nav-number">1.1.</span> <span class="nav-text">方法一(多项式求根函数roots)：</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#方法二（绘图法）："><span class="nav-number">1.2.</span> <span class="nav-text">方法二（绘图法）：</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#其他方法"><span class="nav-number">1.3.</span> <span class="nav-text">其他方法</span></a><ol class="nav-child"><li class="nav-item nav-level-6"><a class="nav-link" href="#求单变量非线性方程的函数-fzero"><span class="nav-number">1.3.0.1.</span> <span class="nav-text">求单变量非线性方程的函数 fzero</span></a></li><li class="nav-item nav-level-6"><a class="nav-link" href="#方程求根函数-fsolve"><span class="nav-number">1.3.0.2.</span> <span class="nav-text">方程求根函数 fsolve</span></a></li><li class="nav-item nav-level-6"><a class="nav-link" href="#符号求根函数-solve"><span class="nav-number">1.3.0.3.</span> <span class="nav-text">符号求根函数 solve</span></a></li></ol></li></ol></li></ol></li></ol></div>
         
       </div>
       <!--/noindex-->
@@ -580,7 +584,7 @@
     <span class="post-meta-item-icon">
       <i class="fa fa-area-chart"></i>
     </span>
-    <span title="Symbols count total">36k</span>
+    <span title="Symbols count total">37k</span>
     <span class="post-meta-divider">|</span>
     <span class="post-meta-item-icon">
       <i class="fa fa-coffee"></i>
